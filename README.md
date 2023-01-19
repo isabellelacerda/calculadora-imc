@@ -10,4 +10,5 @@ O cálculo do IMC é feito usando a seguinte fórmula matemática: Peso ÷ (altu
         <li>CSS</li>
         <li>JAVASCRIPT</li>
     </ul>
-(https://user-images.githubusercontent.com/115417152/213469909-2d44e997-b5f2-4abc-8884-da6c7178e7d9.png)
+
+![Capturar_20230119115847](https://user-images.githubusercontent.com/115417152/213476638-eb1796a8-ec8d-4c35-b301-e17e2548fa0b.png)
